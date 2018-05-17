@@ -1,0 +1,34 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "curso de tdd",
+  "main": "index.js",
+  "dependencies": {
+    "user": "^0.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.11.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.8.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudio-linux/js-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Claudio Gabriel <claudiogabriel17@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/claudio-linux/js-tdd/issues"
+  },
+  "homepage": "https://github.com/claudio-linux/js-tdd#readme"
+}
